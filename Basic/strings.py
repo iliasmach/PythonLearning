@@ -1,4 +1,5 @@
-import variables
+from Basic import variables
+
 string1 = "Hello world"
 russian_string = "Привет, мир!"
 
